@@ -1,13 +1,12 @@
-package com.example.week3day3codingquestion;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Week3Day3CodingQuestionApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {
     }
-
 }
